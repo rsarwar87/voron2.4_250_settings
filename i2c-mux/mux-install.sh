@@ -1,5 +1,4 @@
 !/bin/sh -e
-cd ~
 #
 echo
 echo
