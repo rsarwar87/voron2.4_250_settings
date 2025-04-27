@@ -56,6 +56,15 @@ path = ~/mainsail-config
 origin = https://github.com/mainsail-crew/mainsail-config.git
 managed_services = klipper
 
+[update_manager afc-klipperscreen-add-on]
+type = git_repo
+path = ~/AFC-Klipper-Screen-Add-On
+origin = https://github.com/ArmoredTurtle/AFC-Klipper-Screen-Add-On.git
+primary_branch = main
+is_system_service = False
+info_tags = 
+	desc=AFC KlipperScreen Add On
+
 [update_manager crowsnest]
 type = git_repo
 path = ~/crowsnest
