@@ -1,0 +1,21 @@
+[info]	2026-01-05 22:25:47.629850[Thread 0x00007ef48b08f540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[error]	2026-01-05 22:25:49.113663[Thread 0x00007ef4039fa6c0]:Unable to open connection to spacenavd
+[error]	2026-01-05 22:25:50.358190[Thread 0x00007ef48b08f540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 22:25:50.614704[Thread 0x00007ef48b08f540]:10:25:50 PM: Error: can't open file '/tmp/.mount_OrcaSlPchMFO/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2026-01-05 22:25:50.614777[Thread 0x00007ef48b08f540]:10:25:50 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlPchMFO/resources/images/printer_preview_Voron2_250.png".
+[error]	2026-01-05 22:25:50.614787[Thread 0x00007ef48b08f540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2026-01-05 22:25:51.163662[Thread 0x00007ef48b08f540]:10:25:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 22:25:51.177655[Thread 0x00007ef48b08f540]:10:25:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 22:25:51.186595[Thread 0x00007ef48b08f540]:10:25:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 22:25:51.734941[Thread 0x00007ef48b08f540]:10:25:51 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-05 22:25:53.625791[Thread 0x00007ef48b08f540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 22:25:53.682412[Thread 0x00007ef48b08f540]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-05 22:25:54.792513[Thread 0x00007ef48b08f540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-05 22:25:55.252439[Thread 0x00007ef48b08f540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 22:25:55.293723[Thread 0x00007ef48b08f540]:validate_preset: preset_name Voron Generic ABS - Copy, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2026-01-05 22:25:55.293779[Thread 0x00007ef48b08f540]:validate_presets:file_name optional-extrusion-mount-5mm-longer.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-05 22:25:55.293791[Thread 0x00007ef48b08f540]:validate_presets:file_name optional-extrusion-mount-5mm-longer.3mf, found self defined presets, count 1
+[error]	2026-01-05 22:26:02.781794[Thread 0x00007ef48b08f540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 22:26:21.146526[Thread 0x00007ef2de3f86c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-05 23:37:43.910164[Thread 0x00007ef48b08f540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 23:38:31.588821[Thread 0x00007ef48b08f540]:option: attempt to access option with wrong type: flush_multiplier

@@ -1,0 +1,30 @@
+{
+    "bottom_shell_layers": "5",
+    "brim_type": "outer_only",
+    "default_acceleration": "10000",
+    "from": "User",
+    "gap_infill_speed": "150",
+    "inherits": "0.20mm Standard @Voron",
+    "initial_layer_infill_speed": "125",
+    "initial_layer_print_height": "0.25",
+    "inner_wall_acceleration": "10000",
+    "inner_wall_speed": "400",
+    "internal_solid_infill_speed": "400",
+    "name": "0.20mm Standard @Voron - Copy",
+    "outer_wall_acceleration": "10000",
+    "outer_wall_speed": "200",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "0.20mm Standard @Voron - Copy",
+    "sparse_infill_speed": "400",
+    "top_shell_layers": "5",
+    "top_surface_speed": "150",
+    "travel_acceleration": "10000",
+    "travel_speed": "800",
+    "version": "2.2.0.4",
+    "wall_loops": "4"
+}

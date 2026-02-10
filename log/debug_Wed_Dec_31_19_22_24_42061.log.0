@@ -1,0 +1,18 @@
+[info]	2025-12-31 19:22:24.249618[Thread 0x00007aac4b02a540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2025-12-31 19:22:24.396369[Thread 0x00007aac4b02a540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-12-31 19:22:25.689867[Thread 0x00007aabb77fe6c0]:Unable to open connection to spacenavd
+[error]	2025-12-31 19:22:26.817332[Thread 0x00007aac4b02a540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:22:27.040504[Thread 0x00007aac4b02a540]:07:22:27 PM: Error: can't open file '/tmp/.mount_OrcaSlBDaKkC/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:22:27.040572[Thread 0x00007aac4b02a540]:07:22:27 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlBDaKkC/resources/images/printer_preview_Voron2_250.png".
+[error]	2025-12-31 19:22:27.040581[Thread 0x00007aac4b02a540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2025-12-31 19:22:27.585391[Thread 0x00007aac4b02a540]:07:22:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:22:27.596530[Thread 0x00007aac4b02a540]:07:22:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:22:27.603358[Thread 0x00007aac4b02a540]:07:22:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:22:27.884152[Thread 0x00007aac4b02a540]:07:22:27 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:22:30.290181[Thread 0x00007aac4b02a540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:22:30.337701[Thread 0x00007aac4b02a540]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-12-31 19:22:55.360955[Thread 0x00007aac4b02a540]:import_json_presets Preset already present and is system preset, not loading: MyKlipper 0.4 nozzle
+[warning]	2025-12-31 19:22:55.364988[Thread 0x00007aac4b02a540]:import_json_presets Preset already present and is system preset, not loading: MyKlipper 0.6 nozzle
+[warning]	2025-12-31 19:23:03.877275[Thread 0x00007aac4b02a540]:import_json_presets Preset already present and is system preset, not loading: Voron 2.4 250 0.4 nozzle
+[warning]	2025-12-31 19:23:03.908867[Thread 0x00007aac4b02a540]:import_json_presets Preset already present and is system preset, not loading: Voron 2.4 250 0.6 nozzle
+[warning]	2025-12-31 19:23:03.914722[Thread 0x00007aac4b02a540]:import_json_presets Preset already present and is system preset, not loading: Voron 2.4 250 0.8 nozzle

@@ -1,0 +1,43 @@
+[info]	2026-01-05 19:42:56.973366[Thread 0x00007cee8916e540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2026-01-05 19:42:57.103126[Thread 0x00007cee8916e540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2026-01-05 19:42:58.385785[Thread 0x00007cee01ffa6c0]:Unable to open connection to spacenavd
+[error]	2026-01-05 19:42:59.558443[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 19:42:59.807738[Thread 0x00007cee8916e540]:07:42:59 PM: Error: can't open file '/tmp/.mount_OrcaSlMCfGdK/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2026-01-05 19:42:59.807825[Thread 0x00007cee8916e540]:07:42:59 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlMCfGdK/resources/images/printer_preview_Voron2_250.png".
+[error]	2026-01-05 19:42:59.807845[Thread 0x00007cee8916e540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2026-01-05 19:43:00.298948[Thread 0x00007cee8916e540]:07:43:00 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 19:43:00.309157[Thread 0x00007cee8916e540]:07:43:00 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 19:43:00.315818[Thread 0x00007cee8916e540]:07:43:00 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 19:43:00.731587[Thread 0x00007cee8916e540]:07:43:00 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-05 19:43:02.440822[Thread 0x00007cee8916e540]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-05 19:43:05.372557[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-05 19:43:05.552385[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 19:43:05.567580[Thread 0x00007cee8916e540]:validate_preset: preset_name Voron Generic ABS - Copy, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2026-01-05 19:43:05.567647[Thread 0x00007cee8916e540]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-05 19:43:05.567657[Thread 0x00007cee8916e540]:validate_presets:file_name .3mf, found self defined presets, count 1
+[error]	2026-01-05 19:43:31.968962[Thread 0x00007cee8916e540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-05 19:44:35.638439[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:44:35.641929[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:44:35.643956[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:44:35.645621[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:44:35.647277[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:44:35.648985[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.135565[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.137722[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.139936[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.142210[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.144162[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:45:52.145880[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:46:27.589419[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:47:22.817215[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:47:48.583603[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:53:22.451293[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-05 19:53:46.496174[Thread 0x00007cee8916e540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-05 21:24:21.553458[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-05 22:10:29.665683[Thread 0x00007cee8916e540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-05 22:18:04.020172[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-05 22:18:04.635369[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-05 22:18:04.702653[Thread 0x00007cee8916e540]:validate_preset: preset_name Voron Generic ABS - Copy, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2026-01-05 22:18:04.702718[Thread 0x00007cee8916e540]:validate_presets:file_name optional-extrusion-mount-5mm-longer.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-05 22:18:04.702735[Thread 0x00007cee8916e540]:validate_presets:file_name optional-extrusion-mount-5mm-longer.3mf, found self defined presets, count 1
+[error]	2026-01-05 22:20:35.016869[Thread 0x00007cee8916e540]:calc_exclude_triangles:Unable to create exclude triangles

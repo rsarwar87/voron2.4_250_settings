@@ -1,0 +1,53 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n;G92 E0\n;BEFORE_LAYER_CHANGE HEIGHT=[layer_z] LAYER=[layer_num]",
+    "change_filament_gcode": ";T[next_extruder] PURGE_LENGTH=[flush_length]\n;{ if toolchange_count == 1 }SET_AFC_TOOLCHANGES TOOLCHANGES=[total_toolchanges]{endif }\n;FLUSH_START\n;EXTERNAL_PURGE {flush_length}\n",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
+    "default_filament_profile": [
+        "Voron Generic ABS"
+    ],
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
+    "from": "User",
+    "inherits": "Voron 2.4 250 0.4 nozzle",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\n;_MMU_UPDATE_HEIGHT\n;SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num}",
+    "machine_load_filament_time": "46",
+    "machine_max_acceleration_x": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_speed_z": [
+        "8",
+        "12"
+    ],
+    "machine_start_gcode": "_PRINT_START_PHASE_INIT EXTRUDER={first_layer_temperature[initial_tool]} BED=[first_layer_bed_temperature] MESH_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} MESH_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} LAYERS={total_layer_count} NOZZLE_SIZE={nozzle_diameter[0]} TOOL={initial_tool}\n; Insert custom gcode here.\n;MMU_START_SETUP INITIAL_TOOL={initial_tool} TOTAL_TOOLCHANGES=!total_toolchanges! REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! FILAMENT_NAMES=!filament_names! PURGE_VOLUMES=!purge_volumes!\nLazy_home\nM104 S170\nM190 S[bed_temperature_initial_layer_single]\nM109 S170\nmmu_clean_nozzle\n_PRINT_START_PHASE_PREHEAT\n; Insert custom gcode here.\n_PRINT_START_PHASE_PROBING\n; Insert custom gcode here.\n_PRINT_START_PHASE_EXTRUDER\n; Insert custom gcode here.\nmmu_clean_nozzle\n_PRINT_START_PHASE_PURGE\n\nSET_PRINT_STATS_INFO TOTAL_LAYER={total_layer_count} ; For pause at layer functionality and better print stats\n; This is the place to put slicer purge lines if you haven't set a non-zero\n; variable_start_purge_length to have START_PRINT automatically calculate and \n; perform the purge (e.g. if using a Mosaic Palette, which requires the slicer\n; to generate the purge).",
+    "machine_tool_change_time": "76",
+    "machine_unload_filament_time": "46",
+    "max_layer_height": [
+        "0.48"
+    ],
+    "name": "Voron 2.4 250 0.6 nozzle - single",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "parking_pos_retraction": "0",
+    "print_host": "https://mainsail.connectify29.xyz/",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "Voron 2.4 250 0.6 nozzle - single",
+    "printer_structure": "corexy",
+    "retract_length_toolchange": [
+        "0.5"
+    ],
+    "support_multi_bed_types": "1",
+    "thumbnails": "48x48/PNG, 300x300/PNG",
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,24 @@
+[info]	2026-01-04 18:41:13.405269[Thread 0x000074fd58f6c540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2026-01-04 18:41:13.558288[Thread 0x000074fd58f6c540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2026-01-04 18:41:14.918325[Thread 0x000074fcc57fa6c0]:Unable to open connection to spacenavd
+[error]	2026-01-04 18:41:16.187899[Thread 0x000074fd58f6c540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-04 18:41:16.478865[Thread 0x000074fd58f6c540]:06:41:16 PM: Error: can't open file '/tmp/.mount_OrcaSlagOcHc/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2026-01-04 18:41:16.478965[Thread 0x000074fd58f6c540]:06:41:16 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlagOcHc/resources/images/printer_preview_Voron2_250.png".
+[error]	2026-01-04 18:41:16.478984[Thread 0x000074fd58f6c540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2026-01-04 18:41:17.031458[Thread 0x000074fd58f6c540]:06:41:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-04 18:41:17.044243[Thread 0x000074fd58f6c540]:06:41:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-04 18:41:17.051099[Thread 0x000074fd58f6c540]:06:41:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-04 18:41:17.476150[Thread 0x000074fd58f6c540]:06:41:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-04 18:41:20.155426[Thread 0x000074fd58f6c540]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-04 18:41:21.420242[Thread 0x000074fd58f6c540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-04 18:41:30.901572[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:44:26.806637[Thread 0x000074fd58f6c540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-04 18:44:53.356857[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:44:54.440059[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:07.871381[Thread 0x000074fd58f6c540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-04 18:45:12.724024[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:12.845261[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:12.883858[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:13.040006[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:13.071292[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-04 18:45:26.607292[Thread 0x000074fd58f6c540]:tree_sel_change_delayedcan not find page with current selection 

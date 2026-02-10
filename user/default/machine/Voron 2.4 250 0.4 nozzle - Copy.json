@@ -1,0 +1,39 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nBEFORE_LAYER_CHANGE HEIGHT=[layer_z] LAYER=[layer_num]\nG92 E0\n",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
+    "default_filament_profile": [
+        "Voron Generic ABS"
+    ],
+    "extra_loading_move": "0",
+    "from": "User",
+    "inherits": "Voron 2.4 250 0.4 nozzle",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nAFTER_LAYER_CHANGE",
+    "machine_max_acceleration_x": [
+        "7000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "7000",
+        "20000"
+    ],
+    "machine_max_speed_z": [
+        "8",
+        "12"
+    ],
+    "machine_start_gcode": "Lazy_home\nM104 S170\nM190 S[bed_temperature_initial_layer_single]\nM109 S170\nAFC_BRUSH\n_PRINT_START_PHASE_INIT EXTRUDER={first_layer_temperature[initial_tool]} BED=[first_layer_bed_temperature] MESH_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} MESH_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} LAYERS={total_layer_count} NOZZLE_SIZE={nozzle_diameter[0]}\n; Insert custom gcode here.\n_PRINT_START_PHASE_PREHEAT\n; Insert custom gcode here.\n_PRINT_START_PHASE_PROBING\n; Insert custom gcode here.\n_PRINT_START_PHASE_EXTRUDER\n; Insert custom gcode here.\nAFC_BRUSH\n_PRINT_START_PHASE_PURGE\n\n; This is the place to put slicer purge lines if you haven't set a non-zero\n; variable_start_purge_length to have START_PRINT automatically calculate and \n; perform the purge (e.g. if using a Mosaic Palette, which requires the slicer\n; to generate the purge).",
+    "name": "Voron 2.4 250 0.4 nozzle - Copy",
+    "parking_pos_retraction": "0",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "Voron 2.4 250 0.4 nozzle - Copy",
+    "printer_structure": "corexy",
+    "purge_in_prime_tower": "0",
+    "support_multi_bed_types": "1",
+    "thumbnails": "48x48/PNG, 300x300/PNG",
+    "version": "2.2.0.4"
+}

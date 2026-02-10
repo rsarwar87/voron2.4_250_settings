@@ -1,0 +1,63 @@
+[info]	2026-01-03 20:17:33.589872[Thread 0x000074206f0b7540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2026-01-03 20:17:33.733451[Thread 0x000074206f0b7540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2026-01-03 20:17:35.046093[Thread 0x000074201affd6c0]:Unable to open connection to spacenavd
+[error]	2026-01-03 20:17:36.140164[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:17:36.437301[Thread 0x000074206f0b7540]:08:17:36 PM: Error: can't open file '/tmp/.mount_OrcaSljfihAJ/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2026-01-03 20:17:36.437413[Thread 0x000074206f0b7540]:08:17:36 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSljfihAJ/resources/images/printer_preview_Voron2_250.png".
+[error]	2026-01-03 20:17:36.437422[Thread 0x000074206f0b7540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2026-01-03 20:17:36.979483[Thread 0x000074206f0b7540]:08:17:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-03 20:17:36.987307[Thread 0x000074206f0b7540]:08:17:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-03 20:17:36.994956[Thread 0x000074206f0b7540]:08:17:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-03 20:17:37.424856[Thread 0x000074206f0b7540]:08:17:37 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-03 20:17:39.954633[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:17:40.030622[Thread 0x000074206f0b7540]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-03 20:17:41.402183[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:17:56.927079[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:18:03.000350[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:18:25.662821[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.027730[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.029727[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.031620[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.033551[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.035174[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:18:30.036747[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:19:00.753978[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:19:27.179569[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:19:41.023015[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:20:27.815125[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:20:28.694648[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:20:42.058963[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:20:58.266559[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:20:59.757711[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:21:14.328177[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:14.330119[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:14.332086[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:14.333842[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:14.335434[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:14.337218[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:21:30.746414[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:22:08.586829[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:22:10.925497[Thread 0x000074206f0b7540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:22:14.099644[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:14.101597[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:14.103514[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:14.105408[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:14.107274[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:14.109079[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:20.156115[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.314343[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.316279[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.317893[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.319455[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.321065[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:22:35.322635[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:10.269803[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.591340[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.593193[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.594853[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.596449[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.598077[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:23:26.599723[Thread 0x000074206f0b7540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:24:33.631634[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:24:58.375361[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:25:34.174270[Thread 0x000074206f0b7540]:calc_exclude_triangles:Unable to create exclude triangles

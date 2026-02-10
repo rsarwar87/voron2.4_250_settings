@@ -1,0 +1,284 @@
+[info]	2025-12-31 19:24:05.088623[Thread 0x00007d25fb862540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2025-12-31 19:24:05.222780[Thread 0x00007d25fb862540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-12-31 19:24:06.514690[Thread 0x00007d2569ffb6c0]:Unable to open connection to spacenavd
+[error]	2025-12-31 19:24:07.577823[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:24:07.800491[Thread 0x00007d25fb862540]:07:24:07 PM: Error: can't open file '/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:24:07.800562[Thread 0x00007d25fb862540]:07:24:07 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_Voron2_250.png".
+[error]	2025-12-31 19:24:07.800571[Thread 0x00007d25fb862540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2025-12-31 19:24:08.334397[Thread 0x00007d25fb862540]:07:24:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:24:08.344566[Thread 0x00007d25fb862540]:07:24:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:24:08.351397[Thread 0x00007d25fb862540]:07:24:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:24:08.614001[Thread 0x00007d25fb862540]:07:24:08 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:24:10.983322[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:24:11.029683[Thread 0x00007d25fb862540]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-12-31 19:24:25.001869[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:25:01.500280[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:25:14.179637[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:26:38.870815[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:13.316622[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:14.597934[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:15.354461[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:16.799815[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:17.392221[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:27:59.900561[Thread 0x00007d25fb862540]:07:27:59 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:28:21.229223[Thread 0x00007d25fb862540]:07:28:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:29:00.016611[Thread 0x00007d25fb862540]:07:29:00 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:36:06.108876[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-31 19:36:07.706820[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:36:07.823939[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.823994[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the printer preset not inherit from system
+[warning]	2025-12-31 19:36:07.824011[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Silk @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.824035[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-31 19:36:07.824047[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.824053[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-31 19:36:07.824060[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.824066[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-31 19:36:07.824074[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.824079[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-31 19:36:07.824087[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu TPU 95A HF @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:07.824093[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-31 19:36:07.824100[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found self defined presets, count 5
+[warning]	2025-12-31 19:36:10.395441[Thread 0x00007d25fb862540]:07:36:10 PM: Error: can't open file '/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:36:10.395514[Thread 0x00007d25fb862540]:07:36:10 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_.png".
+[error]	2025-12-31 19:36:10.395524[Thread 0x00007d25fb862540]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2025-12-31 19:36:19.422325[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:36:19.470326[Thread 0x00007d25fb862540]:07:36:19 PM: Error: can't open file '/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_my_klipper_01.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:36:19.470399[Thread 0x00007d25fb862540]:07:36:19 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlNNbMpp/resources/images/printer_preview_my_klipper_01.png".
+[error]	2025-12-31 19:36:19.470422[Thread 0x00007d25fb862540]:create_scaled_bitmapCould not load bitmap: printer_preview_my_klipper_01
+[error]	2025-12-31 19:36:23.081856[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-31 19:36:24.557901[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:36:24.620174[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620265[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the printer preset not inherit from system
+[warning]	2025-12-31 19:36:24.620283[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Silk @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620290[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-31 19:36:24.620304[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620310[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-31 19:36:24.620317[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620343[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-31 19:36:24.620359[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620369[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-31 19:36:24.620383[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu TPU 95A HF @BBL X1C, no inherit, set to not found
+[warning]	2025-12-31 19:36:24.620389[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-31 19:36:24.620395[Thread 0x00007d25fb862540]:validate_presets:file_name MiniDragon_2Colors_90cm.3mf, found self defined presets, count 5
+[error]	2025-12-31 19:36:33.871921[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:36:34.012589[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:36:34.015358[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:36:34.017866[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:36:34.020267[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:36:34.022669[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 19:36:34.024590[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2025-12-31 20:11:06.207521[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:11:07.697546[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:11:23.098214[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:11:26.136830[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:11:56.208460[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:12:09.822295[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-31 20:12:19.672532[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-31 20:14:29.437887[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-31 21:24:02.937730[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-31 21:24:05.830658[Thread 0x00007d25fb862540]:File Metadata/plate_1.png not found from archive
+[warning]	2025-12-31 21:24:47.626992[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2025-12-31 21:24:54.000470[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-31 21:30:12.436883[Thread 0x00007d25fb862540]:09:30:12 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 23:47:56.688607[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 23:48:05.484224[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-31 23:48:26.734830[Thread 0x00007d25fb862540]:11:48:26 PM: Error: Internal error when changing value for printable_area: boost::bad_any_cast: failed conversion using boost::any_cast
+[error]	2025-12-31 23:48:26.735612[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 23:49:05.545950[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 11:04:13.199915[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 11:04:48.719182[Thread 0x00007d257a7f36c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":225.000000,
+[warning]	2026-01-02 11:04:54.380864[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 11:04:58.528046[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 11:05:03.915791[Thread 0x00007d25fb862540]:11:05:03 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-02 11:06:08.589218[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 11:06:08.761902[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 11:08:21.820703[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 11:08:46.640151[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 11:08:46.820162[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 11:08:52.249532[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-02 18:48:56.025026[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 19:26:45.038778[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:30:33.808674[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 19:30:44.188319[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 20:28:27.364473[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:28:42.988923[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:29:45.017411[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:32:53.111474[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:34:34.199064[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:34:34.207850[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 20:39:25.377585[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 20:40:41.774982[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 20:43:42.693482[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 23:21:06.116810[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 23:25:50.852032[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 23:25:53.325761[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-02 23:25:58.099138[Thread 0x00007d25789ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-03 16:21:25.099773[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:21:25.314844[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 16:21:27.252177[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2026-01-03 16:21:27.252244[Thread 0x00007d25fb862540]:validate_presets:file_name KumikoBackgroundStamp.3mf, found the printer preset not inherit from system
+[warning]	2026-01-03 16:21:27.252265[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2026-01-03 16:21:27.252276[Thread 0x00007d25fb862540]:validate_presets:file_name KumikoBackgroundStamp.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-03 16:21:27.252286[Thread 0x00007d25fb862540]:validate_presets:file_name KumikoBackgroundStamp.3mf, found self defined presets, count 2
+[error]	2026-01-03 16:21:29.723531[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:45.944818[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:45.978161[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.534615[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.581904[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.614728[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.658661[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.702096[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.706608[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.722845[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.776953[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.827144[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.871935[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.921559[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.965843[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.970194[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:46.985925[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.001422[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.016967[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.032711[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.048124[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.100375[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.142165[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.183359[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.224828[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.266593[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.308609[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.342378[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.346659[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.363108[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.379149[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.394716[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.410282[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.425660[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.441113[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.456560[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.471976[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.487452[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.503019[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.518671[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.555463[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.588886[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.629547[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.687158[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:47.748608[Thread 0x00007d25fb862540]:can not find parent for config /tmp/orcaslicer_model/Sat_Jan_03/16_22_46#43091#1126/_temp_2.config!
+[warning]	2026-01-03 16:22:50.553684[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2026-01-03 16:22:50.553744[Thread 0x00007d25fb862540]:validate_presets:file_name 250by250_v1.3mf, found the printer preset not inherit from system
+[warning]	2026-01-03 16:22:50.553759[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2026-01-03 16:22:50.553767[Thread 0x00007d25fb862540]:validate_presets:file_name 250by250_v1.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-03 16:22:50.553779[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2026-01-03 16:22:50.553787[Thread 0x00007d25fb862540]:validate_presets:file_name 250by250_v1.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-01-03 16:22:50.553793[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2026-01-03 16:22:50.553797[Thread 0x00007d25fb862540]:validate_presets:file_name 250by250_v1.3mf, found the filament 3 preset not inherit from system
+[warning]	2026-01-03 16:22:50.553815[Thread 0x00007d25fb862540]:validate_presets:file_name 250by250_v1.3mf, found self defined presets, count 2
+[error]	2026-01-03 16:22:51.808707[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.826655[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.834818[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.850401[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.866290[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.882262[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.898054[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.914333[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.929878[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.945337[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.960888[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.976852[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:51.993271[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.008814[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.026090[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.041787[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.050028[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.057906[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.065795[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.082744[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.113879[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:22:52.525735[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 16:23:14.611468[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 16:24:45.189643[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:24:45.215987[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 16:24:45.245498[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:24:45.425171[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:24:45.454460[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:24:45.483904[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 16:24:45.513248[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 16:24:47.647212[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu Lab P1P 0.4 nozzle, no inherit, set to not found
+[warning]	2026-01-03 16:24:47.647283[Thread 0x00007d25fb862540]:validate_presets:file_name Kumiko_Asanoha_@paper_view.3mf, found the printer preset not inherit from system
+[warning]	2026-01-03 16:24:47.647340[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2026-01-03 16:24:47.647350[Thread 0x00007d25fb862540]:validate_presets:file_name Kumiko_Asanoha_@paper_view.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-03 16:24:47.647360[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2026-01-03 16:24:47.647366[Thread 0x00007d25fb862540]:validate_presets:file_name Kumiko_Asanoha_@paper_view.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-01-03 16:24:47.647374[Thread 0x00007d25fb862540]:validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2026-01-03 16:24:47.647379[Thread 0x00007d25fb862540]:validate_presets:file_name Kumiko_Asanoha_@paper_view.3mf, found the filament 3 preset not inherit from system
+[warning]	2026-01-03 16:24:47.647386[Thread 0x00007d25fb862540]:validate_presets:file_name Kumiko_Asanoha_@paper_view.3mf, found self defined presets, count 2
+[error]	2026-01-03 16:24:49.084650[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 16:24:49.107147[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 16:24:53.711005[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:06:27.500483[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:06:27.552647[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:06:31.236999[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:06:31.238600[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:06:36.270121[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:06:36.854648[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:06:36.911341[Thread 0x00007d25fb862540]:validate_preset: preset_name Voron Generic ABS - Copy, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2026-01-03 20:06:36.911410[Thread 0x00007d25fb862540]:validate_presets:file_name WITCHERLOGO.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-03 20:06:36.911425[Thread 0x00007d25fb862540]:validate_preset: preset_name Voron Generic ABS - Copy, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2026-01-03 20:06:36.911434[Thread 0x00007d25fb862540]:validate_presets:file_name WITCHERLOGO.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-01-03 20:06:36.911446[Thread 0x00007d25fb862540]:validate_presets:file_name WITCHERLOGO.3mf, found self defined presets, count 1
+[error]	2026-01-03 20:06:39.987039[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:06:40.196500[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:06:48.182338[Thread 0x00007d25fb862540]:08:06:48 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-03 20:06:57.364000[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:07:12.228734[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:07:57.484048[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:08:14.371770[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:08:19.218669[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:08:19.220354[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:08:23.289860[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:08:38.314874[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:09:02.443360[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:09:21.022957[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:09:55.531048[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:10:42.952486[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:10:42.954238[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:10:52.459272[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:11:15.130607[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:12:05.022743[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:12:05.024507[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:12:10.039236[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:12:16.789208[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:12:16.791177[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:12:24.170106[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-03 20:12:47.630708[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:12:49.515454[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:12:50.271866[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:12:50.930760[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:12:54.176518[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:13:09.530157[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:13:23.945296[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:13:28.619054[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:13:35.445347[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-03 20:13:45.528720[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-03 20:13:48.139034[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:14:01.121195[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:01.123340[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:01.125386[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:01.127409[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:01.129400[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:01.131424[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.028464[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.030490[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.032507[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.034531[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.036590[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:07.038560[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:14:10.003458[Thread 0x00007d25fb862540]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-03 20:14:29.598674[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:29.601154[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:29.603252[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:29.605475[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:29.607567[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-01-03 20:14:29.609669[Thread 0x00007d25fb862540]:option: attempt to access option with wrong type: flush_multiplier
+[error]	2026-01-03 20:15:08.167269[Thread 0x00007d25fb862540]:calc_exclude_triangles:Unable to create exclude triangles

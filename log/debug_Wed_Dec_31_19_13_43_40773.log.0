@@ -1,0 +1,18 @@
+[info]	2025-12-31 19:13:43.117252[Thread 0x00007bdef3a37540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2025-12-31 19:13:55.049937[Thread 0x00007bdef3a37540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-12-31 19:13:56.228033[Thread 0x00007bde56ffd6c0]:Unable to open connection to spacenavd
+[error]	2025-12-31 19:13:57.565223[Thread 0x00007bdef3a37540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:13:57.598940[Thread 0x00007bdef3a37540]:07:13:57 PM: Error: can't open file '/tmp/.mount_OrcaSlKFbOHm/resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:13:57.599014[Thread 0x00007bdef3a37540]:07:13:57 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlKFbOHm/resources/images/printer_preview_.png".
+[error]	2025-12-31 19:13:57.599024[Thread 0x00007bdef3a37540]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[warning]	2025-12-31 19:13:57.980769[Thread 0x00007bdef3a37540]:07:13:57 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:13:58.023323[Thread 0x00007bdef3a37540]:07:13:58 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:13:58.031388[Thread 0x00007bdef3a37540]:07:13:58 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:13:58.289676[Thread 0x00007bdef3a37540]:07:13:58 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:14:00.629378[Thread 0x00007bdef3a37540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:14:00.959432[Thread 0x00007bdef3a37540]:07:14:00 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:14:59.673311[Thread 0x00007bdef3a37540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:14:59.711525[Thread 0x00007bdef3a37540]:07:14:59 PM: Error: can't open file '/tmp/.mount_OrcaSlKFbOHm/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:14:59.711619[Thread 0x00007bdef3a37540]:07:14:59 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSlKFbOHm/resources/images/printer_preview_Voron2_250.png".
+[error]	2025-12-31 19:14:59.711634[Thread 0x00007bdef3a37540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2025-12-31 19:14:59.728568[Thread 0x00007bdef3a37540]:get_version, get_version not supported,return 00.00.00.00!

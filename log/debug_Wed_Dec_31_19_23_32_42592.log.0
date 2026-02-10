@@ -1,0 +1,13 @@
+[info]	2025-12-31 19:23:32.461135[Thread 0x0000797ebb65c540]:gui mode, Current OrcaSlicer Version 2.3.2-dev build 32cf44f
+[warning]	2025-12-31 19:23:32.603501[Thread 0x0000797ebb65c540]:Failed to load to hints.cereal. File does not exists. /home/rsarwar/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-12-31 19:23:33.887497[Thread 0x0000797e29ffb6c0]:Unable to open connection to spacenavd
+[error]	2025-12-31 19:23:34.956085[Thread 0x0000797ebb65c540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:23:35.184440[Thread 0x0000797ebb65c540]:07:23:35 PM: Error: can't open file '/tmp/.mount_OrcaSldGHkIM/resources/images/printer_preview_Voron2_250.png' (error 2: No such file or directory)
+[warning]	2025-12-31 19:23:35.184515[Thread 0x0000797ebb65c540]:07:23:35 PM: Error: Failed to load image from file "/tmp/.mount_OrcaSldGHkIM/resources/images/printer_preview_Voron2_250.png".
+[error]	2025-12-31 19:23:35.184529[Thread 0x0000797ebb65c540]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_250
+[warning]	2025-12-31 19:23:35.696795[Thread 0x0000797ebb65c540]:07:23:35 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:23:35.720160[Thread 0x0000797ebb65c540]:07:23:35 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:23:35.728266[Thread 0x0000797ebb65c540]:07:23:35 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 19:23:35.999782[Thread 0x0000797ebb65c540]:07:23:35 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 19:23:38.426470[Thread 0x0000797ebb65c540]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 19:23:38.476348[Thread 0x0000797ebb65c540]:get_version, get_version not supported,return 00.00.00.00!
